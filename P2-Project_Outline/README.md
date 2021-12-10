@@ -25,6 +25,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 -UX Flow
 -Having a seperate backend and frontend
 -UI design
+-React
 ### Project Tracker
 Link to your Trello board here
 https://trello.com/b/6Uahwqf6/liftoff-project
