@@ -10,10 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-1.
-2.
-3.
-4.
+1.https://github.com/StellerEthan/liftoff-assignments/blob/master/Pics%20for%20Assignment%203/Register.png
+2.https://github.com/StellerEthan/liftoff-assignments/blob/master/Pics%20for%20Assignment%203/edit%20page.png
+3.https://github.com/StellerEthan/liftoff-assignments/blob/master/Pics%20for%20Assignment%203/home%20page.png
+4.https://github.com/StellerEthan/liftoff-assignments/blob/master/Pics%20for%20Assignment%203/login.png
 
 ### Project Tracker
 
